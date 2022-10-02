@@ -1,2 +1,2 @@
-hello
-bitches
+This is a sample text,
+including enter next line.
