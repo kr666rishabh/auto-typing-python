@@ -1,2 +1,3 @@
 This is a sample text,
 including enter next line.
+Using python pyautogui and a few required modules, we use this software to automate our typing.
